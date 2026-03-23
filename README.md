@@ -5,7 +5,7 @@
 
 <!-- Typing Animation -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%F0%9F%9A%80;MERN+Stack+%2B+Next.js+Engineer;Building+Scalable+Web+Applications;From+Kathmandu%2C+Nepal+%F0%9F%87%B3%F0%9F%87%B5" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%F0%9F%9A%80;MERN+Stack+%2B+Next.js+Engineer;Building+Scalable+Web+Applications;From+Pokhara%2C+Nepal+%F0%9F%87%B3%F0%9F%87%B5" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -26,7 +26,7 @@
 ```typescript
 const susan = {
   role        : "Full Stack Developer",
-  location    : "Kathmandu, Nepal 🇳🇵",
+  location    : "Pokhara, Nepal 🇳🇵",
   stack       : ["MongoDB", "Express.js", "React", "Node.js", "Next.js"],
   languages   : ["JavaScript", "TypeScript"],
   passion     : "Building scalable, production-ready web applications",
